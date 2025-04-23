@@ -39,4 +39,12 @@
 | [0162-find-peak-element](https://github.com/shahriar808/LeetCode/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/shahriar808/LeetCode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shahriar808/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shahriar808/LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shahriar808/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
