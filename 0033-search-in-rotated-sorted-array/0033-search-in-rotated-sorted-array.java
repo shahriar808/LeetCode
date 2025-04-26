@@ -7,6 +7,10 @@ class Solution {
             if (nums[mid] == target) {
                 return mid;
             }
+            if(nums[left] == nums[mid] && nums[right] == nums[mid]){
+                left++;
+                right--;
+            }
             else if(nums[left] <= nums[mid]) {
                 if (nums[mid] >= target && nums[left] <= target)
                     right = mid - 1; 
