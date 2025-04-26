@@ -57,8 +57,17 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shahriar808/LeetCode/tree/master/0155-min-stack) |
+| [0969-number-of-recent-calls](https://github.com/shahriar808/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shahriar808/LeetCode/tree/master/0496-next-greater-element-i) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/shahriar808/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/shahriar808/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
