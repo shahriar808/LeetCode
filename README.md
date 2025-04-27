@@ -13,6 +13,7 @@
 | [0162-find-peak-element](https://github.com/shahriar808/LeetCode/tree/master/0162-find-peak-element) |
 | [0496-next-greater-element-i](https://github.com/shahriar808/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/shahriar808/LeetCode/tree/master/0792-binary-search) |
+| [0859-design-circular-deque](https://github.com/shahriar808/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/shahriar808/LeetCode/tree/master/0860-design-circular-queue) |
 | [0941-sort-array-by-parity](https://github.com/shahriar808/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shahriar808/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shahriar808/LeetCode/tree/master/0155-min-stack) |
+| [0859-design-circular-deque](https://github.com/shahriar808/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/shahriar808/LeetCode/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/shahriar808/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Stack
@@ -67,6 +69,7 @@
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/shahriar808/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/shahriar808/LeetCode/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/shahriar808/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
@@ -76,5 +79,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/shahriar808/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/shahriar808/LeetCode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
