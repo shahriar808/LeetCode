@@ -17,6 +17,7 @@
 | [0859-design-circular-deque](https://github.com/shahriar808/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/shahriar808/LeetCode/tree/master/0860-design-circular-queue) |
 | [0941-sort-array-by-parity](https://github.com/shahriar808/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/shahriar808/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shahriar808/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/shahriar808/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Math
+|  |
+| ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/shahriar808/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
