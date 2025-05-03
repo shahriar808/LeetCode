@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shahriar808/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/shahriar808/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0859-design-circular-deque](https://github.com/shahriar808/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/shahriar808/LeetCode/tree/master/0860-design-circular-queue) |
 ## Sliding Window
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shahriar808/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/shahriar808/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
