@@ -24,6 +24,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/shahriar808/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shahriar808/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/shahriar808/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0868-push-dominoes](https://github.com/shahriar808/LeetCode/tree/master/0868-push-dominoes) |
 | [0941-sort-array-by-parity](https://github.com/shahriar808/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shahriar808/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/shahriar808/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/shahriar808/LeetCode/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/shahriar808/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shahriar808/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
@@ -89,6 +91,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/shahriar808/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shahriar808/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/shahriar808/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shahriar808/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0859-design-circular-deque](https://github.com/shahriar808/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/shahriar808/LeetCode/tree/master/0860-design-circular-queue) |
 ## Sliding Window
@@ -118,6 +121,7 @@
 | [0002-add-two-numbers](https://github.com/shahriar808/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shahriar808/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/shahriar808/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shahriar808/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
