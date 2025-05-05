@@ -13,6 +13,7 @@
 | [0162-find-peak-element](https://github.com/shahriar808/LeetCode/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/shahriar808/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/shahriar808/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/shahriar808/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/shahriar808/LeetCode/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/shahriar808/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/shahriar808/LeetCode/tree/master/0860-design-circular-queue) |
@@ -62,6 +63,7 @@
 | [0155-min-stack](https://github.com/shahriar808/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/shahriar808/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shahriar808/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/shahriar808/LeetCode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shahriar808/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/shahriar808/LeetCode/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
 | ------- |
