@@ -25,6 +25,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/shahriar808/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shahriar808/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/shahriar808/LeetCode/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/shahriar808/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/shahriar808/LeetCode/tree/master/0344-reverse-string) |
 | [0868-push-dominoes](https://github.com/shahriar808/LeetCode/tree/master/0868-push-dominoes) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shahriar808/LeetCode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/shahriar808/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shahriar808/LeetCode/tree/master/0344-reverse-string) |
 | [0868-push-dominoes](https://github.com/shahriar808/LeetCode/tree/master/0868-push-dominoes) |
 ## Stack
