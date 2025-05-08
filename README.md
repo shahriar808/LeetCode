@@ -18,6 +18,7 @@
 | [0859-design-circular-deque](https://github.com/shahriar808/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/shahriar808/LeetCode/tree/master/0860-design-circular-queue) |
 | [0941-sort-array-by-parity](https://github.com/shahriar808/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/shahriar808/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shahriar808/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shahriar808/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
@@ -30,6 +31,7 @@
 | [0344-reverse-string](https://github.com/shahriar808/LeetCode/tree/master/0344-reverse-string) |
 | [0868-push-dominoes](https://github.com/shahriar808/LeetCode/tree/master/0868-push-dominoes) |
 | [0941-sort-array-by-parity](https://github.com/shahriar808/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/shahriar808/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shahriar808/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -38,6 +40,7 @@
 | [0088-merge-sorted-array](https://github.com/shahriar808/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/shahriar808/LeetCode/tree/master/0242-valid-anagram) |
 | [0941-sort-array-by-parity](https://github.com/shahriar808/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/shahriar808/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shahriar808/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
