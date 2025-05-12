@@ -12,6 +12,7 @@
 | [0075-sort-colors](https://github.com/shahriar808/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shahriar808/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shahriar808/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/shahriar808/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/shahriar808/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shahriar808/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/shahriar808/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shahriar808/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahriar808/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/shahriar808/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/shahriar808/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/shahriar808/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shahriar808/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -157,4 +159,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shahriar808/LeetCode/tree/master/0014-longest-common-prefix) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shahriar808/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
