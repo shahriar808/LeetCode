@@ -8,7 +8,8 @@ class Solution {
         for (int num : set) {
             if(!set.contains(num - 1)){
                 int length = 1;
-                while(set.contains(num + length)){
+                while(set.contains(num + 1)){
+                    num++;
                     length++;
                 }
                 longest = Math.max(longest, length);
