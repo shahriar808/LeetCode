@@ -4,18 +4,18 @@ class Solution {
         if (n <= 0)
             return n;
         HashSet<Integer> set = new HashSet<>();
-        for (int num : nums) {
-            set.add(num);
+        int longest = 1;
+        for (int i = 0; i < n; i++) {
+            set.add(nums[i]);
         }
-        int longest = 0;
-        for (int num : set) {
-            if(!set.contains(num - 1)){
+        for (Integer num : set) {
+            if (!set.contains(num - 1)) {
                 int length = 1;
-                while(set.contains(num + 1)){
-                    num++;
-                    length++;
+                while (set.contains(num + length)) {
+                    length = length + 1;
                 }
                 longest = Math.max(longest, length);
+
             }
         }
         return longest;
