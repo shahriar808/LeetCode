@@ -5,7 +5,6 @@ class Solution {
             return false;
         }
         Map<Character, String> map = new HashMap<>();
-        Set<String> usedWords = new HashSet<>();
         for (int i = 0; i < words.length; i++) {
             char c = pattern.charAt(i);
             if(map.containsKey(c)){
@@ -14,11 +13,10 @@ class Solution {
                 }
             }
             else{
-                if(usedWords.contains(words[i])){
+                if(map.containsValue(words[i])){
                     return false;
                 }
                 map.put(c, words[i]);
-                usedWords.add(words[i]);
             }
         }
         return true;
