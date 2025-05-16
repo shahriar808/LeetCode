@@ -19,6 +19,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shahriar808/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/shahriar808/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shahriar808/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/shahriar808/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/shahriar808/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/shahriar808/LeetCode/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/shahriar808/LeetCode/tree/master/0859-design-circular-deque) |
@@ -212,4 +213,5 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shahriar808/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/shahriar808/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
