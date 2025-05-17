@@ -4,6 +4,7 @@ class Solution {
         for(int pill : piles){
            max = Math.max(pill, max);
         }
+        if (h == piles.length) return max;
         int left = 1;
         int right = max;
         while (left < right) {
