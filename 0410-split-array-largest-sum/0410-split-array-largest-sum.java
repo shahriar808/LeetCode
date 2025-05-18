@@ -35,5 +35,3 @@ class Solution {
     }
 }
 
-//tc: nlog(sum)
-//sc: 1
