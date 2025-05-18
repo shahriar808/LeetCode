@@ -1,39 +1,39 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
-        int max = 0, sum = 0;
-        for (int num : nums) {
-            max = Math.max(max, num);
-            sum += num;
+        int left = nums[0];
+        int right = 0;
+        for(int i : nums ){
+            left = Math.max(left,i);
+            right += i;
         }
 
-        int left = max;
-        int right = sum;
-
-        while (left < right) {
-            int mid = left + (right - left) / 2;
-            if (canSplit(nums, k, mid)) {
-                right = mid; // try smaller max sum
-            } else {
-                left = mid + 1; // increase limit
+        while(left <= right){
+            int mid = left + (right - left)/2;
+            if(splitCount(nums,mid) > k){
+                left = mid+1;
+            }
+            else{
+                right = mid-1;
             }
         }
-
         return left;
     }
 
-    private boolean canSplit(int[] nums, int k, int maxSumAllowed) {
+    public static int splitCount(int [] nums,int mid){
         int count = 1;
-        int currentSum = 0;
-
-        for (int num : nums) {
-            if (currentSum + num > maxSumAllowed) {
+        int cur = 0;
+        for(int i = 0;i< nums.length;i++){
+            if(cur + nums[i] <= mid){
+                cur += nums[i];
+            }
+            else{
                 count++;
-                currentSum = num;
-            } else {
-                currentSum += num;
+                cur = nums[i];
             }
         }
-
-        return count <= k;
+        return count;
     }
 }
+
+//tc: nlog(sum)
+//sc: 1
