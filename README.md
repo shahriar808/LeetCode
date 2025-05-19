@@ -29,6 +29,7 @@
 | [0907-koko-eating-bananas](https://github.com/shahriar808/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/shahriar808/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/shahriar808/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1127-last-stone-weight](https://github.com/shahriar808/LeetCode/tree/master/1127-last-stone-weight) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shahriar808/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shahriar808/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shahriar808/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -154,6 +155,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/shahriar808/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shahriar808/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shahriar808/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1127-last-stone-weight](https://github.com/shahriar808/LeetCode/tree/master/1127-last-stone-weight) |
 ## Monotonic Queue
 |  |
 | ------- |
