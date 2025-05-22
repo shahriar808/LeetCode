@@ -245,4 +245,20 @@
 | [0410-split-array-largest-sum](https://github.com/shahriar808/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shahriar808/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shahriar808/LeetCode/tree/master/0724-find-pivot-index) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shahriar808/LeetCode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shahriar808/LeetCode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shahriar808/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shahriar808/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
