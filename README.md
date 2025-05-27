@@ -186,6 +186,7 @@
 | [0067-add-binary](https://github.com/shahriar808/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/shahriar808/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/shahriar808/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/shahriar808/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/shahriar808/LeetCode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shahriar808/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Recursion
@@ -196,6 +197,7 @@
 | [0206-reverse-linked-list](https://github.com/shahriar808/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shahriar808/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shahriar808/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/shahriar808/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/shahriar808/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
