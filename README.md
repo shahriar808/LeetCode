@@ -125,6 +125,7 @@
 | [0234-palindrome-linked-list](https://github.com/shahriar808/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shahriar808/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/shahriar808/LeetCode/tree/master/0739-daily-temperatures) |
+| [0933-increasing-order-search-tree](https://github.com/shahriar808/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Design
 |  |
 | ------- |
@@ -273,6 +274,7 @@
 | [0101-symmetric-tree](https://github.com/shahriar808/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shahriar808/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shahriar808/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0933-increasing-order-search-tree](https://github.com/shahriar808/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -281,6 +283,7 @@
 | [0101-symmetric-tree](https://github.com/shahriar808/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shahriar808/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shahriar808/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0933-increasing-order-search-tree](https://github.com/shahriar808/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -295,8 +298,13 @@
 | [0101-symmetric-tree](https://github.com/shahriar808/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shahriar808/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shahriar808/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0933-increasing-order-search-tree](https://github.com/shahriar808/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/shahriar808/LeetCode/tree/master/1013-fibonacci-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0933-increasing-order-search-tree](https://github.com/shahriar808/LeetCode/tree/master/0933-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
