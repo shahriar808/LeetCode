@@ -77,6 +77,7 @@
 | [0290-word-pattern](https://github.com/shahriar808/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/shahriar808/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/shahriar808/LeetCode/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/shahriar808/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/shahriar808/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/shahriar808/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shahriar808/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -111,6 +112,7 @@
 | [0290-word-pattern](https://github.com/shahriar808/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/shahriar808/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/shahriar808/LeetCode/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/shahriar808/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/shahriar808/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/shahriar808/LeetCode/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/shahriar808/LeetCode/tree/master/0868-push-dominoes) |
@@ -166,6 +168,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahriar808/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/shahriar808/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/shahriar808/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shahriar808/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
 |  |
