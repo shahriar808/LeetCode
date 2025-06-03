@@ -18,6 +18,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/shahriar808/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shahriar808/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shahriar808/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shahriar808/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/shahriar808/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/shahriar808/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shahriar808/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -77,6 +78,7 @@
 | [0242-valid-anagram](https://github.com/shahriar808/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shahriar808/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/shahriar808/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shahriar808/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0409-longest-palindrome](https://github.com/shahriar808/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/shahriar808/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/shahriar808/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shahriar808/LeetCode/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shahriar808/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0859-design-circular-deque](https://github.com/shahriar808/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/shahriar808/LeetCode/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/shahriar808/LeetCode/tree/master/0969-number-of-recent-calls) |
@@ -198,6 +201,7 @@
 | [0202-happy-number](https://github.com/shahriar808/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/shahriar808/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shahriar808/LeetCode/tree/master/0326-power-of-three) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shahriar808/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1013-fibonacci-number](https://github.com/shahriar808/LeetCode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shahriar808/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Recursion
@@ -312,4 +316,8 @@
 |  |
 | ------- |
 | [0933-increasing-order-search-tree](https://github.com/shahriar808/LeetCode/tree/master/0933-increasing-order-search-tree) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/shahriar808/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
