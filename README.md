@@ -285,6 +285,7 @@
 | [0101-symmetric-tree](https://github.com/shahriar808/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shahriar808/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shahriar808/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/shahriar808/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/shahriar808/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
@@ -294,6 +295,7 @@
 | [0101-symmetric-tree](https://github.com/shahriar808/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shahriar808/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shahriar808/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/shahriar808/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/shahriar808/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
@@ -309,6 +311,7 @@
 | [0101-symmetric-tree](https://github.com/shahriar808/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shahriar808/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shahriar808/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/shahriar808/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/shahriar808/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Memoization
 |  |
