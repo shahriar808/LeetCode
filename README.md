@@ -288,6 +288,7 @@
 | [0112-path-sum](https://github.com/shahriar808/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/shahriar808/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shahriar808/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shahriar808/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0933-increasing-order-search-tree](https://github.com/shahriar808/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
@@ -300,6 +301,7 @@
 | [0112-path-sum](https://github.com/shahriar808/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/shahriar808/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shahriar808/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shahriar808/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0933-increasing-order-search-tree](https://github.com/shahriar808/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
@@ -320,6 +322,7 @@
 | [0112-path-sum](https://github.com/shahriar808/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/shahriar808/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shahriar808/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shahriar808/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0933-increasing-order-search-tree](https://github.com/shahriar808/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Memoization
 |  |
@@ -333,4 +336,12 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/shahriar808/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shahriar808/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shahriar808/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
