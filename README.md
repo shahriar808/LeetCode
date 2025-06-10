@@ -92,6 +92,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/shahriar808/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shahriar808/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shahriar808/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shahriar808/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0778-reorganize-string](https://github.com/shahriar808/LeetCode/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/shahriar808/LeetCode/tree/master/0868-push-dominoes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shahriar808/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shahriar808/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
@@ -249,6 +251,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/shahriar808/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/shahriar808/LeetCode/tree/master/0778-reorganize-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shahriar808/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shahriar808/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Quickselect
 |  |
 | ------- |
