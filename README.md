@@ -204,6 +204,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shahriar808/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/shahriar808/LeetCode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/shahriar808/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/shahriar808/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/shahriar808/LeetCode/tree/master/0231-power-of-two) |
