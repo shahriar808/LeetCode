@@ -211,6 +211,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/shahriar808/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1013-fibonacci-number](https://github.com/shahriar808/LeetCode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shahriar808/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/shahriar808/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/shahriar808/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Recursion
 |  |
@@ -277,6 +278,7 @@
 | [0410-split-array-largest-sum](https://github.com/shahriar808/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0778-reorganize-string](https://github.com/shahriar808/LeetCode/tree/master/0778-reorganize-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/shahriar808/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/shahriar808/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shahriar808/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/shahriar808/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Prefix Sum
