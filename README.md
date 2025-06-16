@@ -208,6 +208,7 @@
 | [0007-reverse-integer](https://github.com/shahriar808/LeetCode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/shahriar808/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/shahriar808/LeetCode/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/shahriar808/LeetCode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/shahriar808/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shahriar808/LeetCode/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shahriar808/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -363,4 +364,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/shahriar808/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/shahriar808/LeetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
