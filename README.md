@@ -14,6 +14,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shahriar808/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shahriar808/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/shahriar808/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0149-max-points-on-a-line](https://github.com/shahriar808/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/shahriar808/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shahriar808/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shahriar808/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -77,6 +78,7 @@
 | [0001-two-sum](https://github.com/shahriar808/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahriar808/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/shahriar808/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0149-max-points-on-a-line](https://github.com/shahriar808/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/shahriar808/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shahriar808/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shahriar808/LeetCode/tree/master/0242-valid-anagram) |
@@ -207,6 +209,7 @@
 | [0002-add-two-numbers](https://github.com/shahriar808/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shahriar808/LeetCode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/shahriar808/LeetCode/tree/master/0067-add-binary) |
+| [0149-max-points-on-a-line](https://github.com/shahriar808/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/shahriar808/LeetCode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/shahriar808/LeetCode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/shahriar808/LeetCode/tree/master/0231-power-of-two) |
@@ -367,5 +370,6 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/shahriar808/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/shahriar808/LeetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
