@@ -101,6 +101,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shahriar808/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shahriar808/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shahriar808/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shahriar808/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | [0868-push-dominoes](https://github.com/shahriar808/LeetCode/tree/master/0868-push-dominoes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shahriar808/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shahriar808/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shahriar808/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Stack
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shahriar808/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/shahriar808/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/shahriar808/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shahriar808/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Recursion
 |  |
 | ------- |
@@ -267,6 +270,7 @@
 | [0778-reorganize-string](https://github.com/shahriar808/LeetCode/tree/master/0778-reorganize-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shahriar808/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shahriar808/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shahriar808/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Quickselect
 |  |
 | ------- |
