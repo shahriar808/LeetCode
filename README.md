@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shahriar808/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shahriar808/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shahriar808/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/shahriar808/LeetCode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/shahriar808/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shahriar808/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shahriar808/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -214,6 +215,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/shahriar808/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shahriar808/LeetCode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/shahriar808/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/shahriar808/LeetCode/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/shahriar808/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/shahriar808/LeetCode/tree/master/0202-happy-number) |
@@ -382,4 +384,8 @@
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/shahriar808/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/shahriar808/LeetCode/tree/master/0223-rectangle-area) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shahriar808/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
