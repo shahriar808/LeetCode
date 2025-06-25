@@ -38,6 +38,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shahriar808/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1464-reduce-array-size-to-the-half](https://github.com/shahriar808/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shahriar808/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/shahriar808/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/shahriar808/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shahriar808/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/shahriar808/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -171,6 +172,7 @@
 | [0859-design-circular-deque](https://github.com/shahriar808/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/shahriar808/LeetCode/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/shahriar808/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/shahriar808/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Data Stream
 |  |
 | ------- |
@@ -231,6 +233,7 @@
 | [1013-fibonacci-number](https://github.com/shahriar808/LeetCode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shahriar808/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/shahriar808/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/shahriar808/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/shahriar808/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shahriar808/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Recursion
@@ -245,6 +248,7 @@
 | [0234-palindrome-linked-list](https://github.com/shahriar808/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/shahriar808/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/shahriar808/LeetCode/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/shahriar808/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -292,6 +296,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shahriar808/LeetCode/tree/master/0067-add-binary) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/shahriar808/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/shahriar808/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Greedy
 |  |
