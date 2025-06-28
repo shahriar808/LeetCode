@@ -40,6 +40,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/shahriar808/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shahriar808/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/shahriar808/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shahriar808/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shahriar808/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/shahriar808/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/shahriar808/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -78,6 +79,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/shahriar808/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/shahriar808/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shahriar808/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shahriar808/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/shahriar808/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/shahriar808/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Hash Table
@@ -102,6 +104,7 @@
 | [0778-reorganize-string](https://github.com/shahriar808/LeetCode/tree/master/0778-reorganize-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/shahriar808/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shahriar808/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shahriar808/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shahriar808/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shahriar808/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shahriar808/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -207,6 +210,7 @@
 | [0778-reorganize-string](https://github.com/shahriar808/LeetCode/tree/master/0778-reorganize-string) |
 | [1127-last-stone-weight](https://github.com/shahriar808/LeetCode/tree/master/1127-last-stone-weight) |
 | [1464-reduce-array-size-to-the-half](https://github.com/shahriar808/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shahriar808/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Monotonic Queue
 |  |
 | ------- |
